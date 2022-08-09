@@ -2,7 +2,7 @@ This setup suitable for Ubuntu 22.04 target servers.
 
 Switch to kubeans:v1.24.3 sh shell with command below.
 
-docker run -it phenomrascalov/kubeans:v1.24.3 sh
+``` docker run -it phenomrascalov/kubeans:v1.24.3 sh``` 
 
 Generate ssh public key and private key with command below.
 
