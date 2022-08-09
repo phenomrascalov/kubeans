@@ -22,6 +22,7 @@ Example inventory.yaml file
 
 [master]
 master01
+
 [worker]
 worker01
 
