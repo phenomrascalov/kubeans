@@ -1,4 +1,4 @@
-This setup suitable for Ubuntu 22.04 target servers.
+This setup is suitable for Ubuntu 22.04 target servers.
 
 Switch to kubeans:v1.24.3 sh shell with command below.
 
@@ -8,7 +8,7 @@ Generate ssh public key and private key with command below.
 
 ``` ssh-keygen``` 
 
-Share ssh public key to target master and worker servers with command below.
+Share ssh public key to  master and worker servers with command below.
 
 Example:
 
