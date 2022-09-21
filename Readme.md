@@ -1,6 +1,15 @@
 This setup is suitable for Ubuntu 22.04 target servers.
 
+Requirements: 
+
+* 3 Master servers 
+
+* 1 HAproxy server 
+
+* n workers
+
 Switch to kubeans:v1.24.3 sh shell with command below.
+
 
 ``` docker run -it phenomrascalov/kubeans:latest sh``` 
 
